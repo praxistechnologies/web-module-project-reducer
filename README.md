@@ -18,7 +18,7 @@ This simplified calculator adds the entire number selected, rather then adds dig
 
 ***Make sure to complete your tasks one at a time and complete test each task before proceding forward.***
 
-## Instructions
+## Instructions _ DONE
 ### Task 1: Project Set Up
 * [ ] Create a forked copy of this project.
 * [ ] Clone your OWN version of the repository in your terminal
